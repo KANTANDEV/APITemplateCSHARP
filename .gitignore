@@ -1,0 +1,63 @@
+# 📌 Dossiers et fichiers générés automatiquement
+bin/
+obj/
+out/
+publish/
+TestResults/
+.DS_Store
+
+# 📌 Fichiers de logs et de débogage
+*.log
+*.vspscc
+*.vssscc
+.vscode/
+
+# 📌 Fichiers de configuration utilisateur
+*.user
+*.suo
+*.rsuser
+*.sln.docstates
+
+# 📌 Fichiers temporaires et cache
+*.cache
+*.pdb
+*.pidb
+*.ilk
+*.obj
+*.o
+*.os
+*.log
+*.tmp
+*.swp
+*.swo
+*.sln.ide
+
+# 📌 Fichiers de dépendances et packages
+node_modules/
+packages/
+wwwroot/node_modules/
+
+# 📌 Secrets et fichiers sensibles
+appsettings.json
+appsettings.Development.json
+secrets.json
+.env
+
+# 📌 Fichiers de compilation .NET
+project.lock.json
+project.fragment.lock.json
+project.json
+
+
+# 📌 Fichiers Swagger auto-générés
+swagger/
+swagger/*.json
+
+# 📌 Extensions spécifiques aux IDE
+.idea/
+*.iml
+*.sublime-workspace
+
+# 📌 Fichiers de publication et builds
+*.tar.gz
+*.zip
